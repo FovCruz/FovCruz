@@ -1,13 +1,19 @@
-# ¡Hola! 👋 Soy Fabian Cruz<span style="border-right: 2px solid; padding-right: 5px; animation: blink 1s infinite;">_</span>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=336791&height=60&section=header&text=Fabián_Cruz👋&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 <p align="center">
     <img src="https://img.shields.io/badge/-fov.cruz@gmail.com-f7d162?style=flat-square&logo=gmail&logoColor=EA4335"/>
-    <img src="https://img.shields.io/badge/- Ing. Informático-1a9e9f?style=flat-square" />
+    <a href="https://www.linkedin.com/in/fabian-osvaldo-cruz" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="mailto:fov.cruz@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Correo%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/linkdin-000?style=social&logo=linkedin&label=LinkedIn&labelColor=2e3891&color=2e3891&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabian-osvaldo-cruz">    <img src="https://img.shields.io/badge/- Ing. Informático-1a9e9f?style=flat-square" />
+    <img src="https://img.shields.io/badge/-fov.cruz@gmail.com-e56160?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </p>
-## 💼 Tecnologías y Herramientas
+<a href="https://github.com/Lalit-Kumar-Badhotiya/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&color=41FF00&width=435&lines=nombre+=+'Fabian+Cruz';print+(f'Hola+soy+{nombre}!+👋"></a>
+<p align="justify">Entusiasta de la tecnología con interés en la automatización y la domótica, Ingeniero informático de profesión. Me gusta explorar nuevas tecnologías cloud y herramientas que permitan mejorar el flujo de trabajo en
+proyectos. Siempre estoy dispuesto a aprender y a compartir mis conocimientos.</p>
 
-Algunas de las tecnoloías que he usado 
-<p align="center">
-  <!-- HTML -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"><b> Lenguajes & Herramientas</b>
+
+<p align="center">  <!-- HTML -->
   <a href="#"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" /></a>
   <!-- CSS -->
   <a href="#"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" /></a>
@@ -74,15 +80,7 @@ Algunas de las tecnoloías que he usado
 </p>
 
 
-
-
-
-## 🚀 Sobre Mí
-
-<p align="justify">Soy ingeniero en informática desde 2023.</p>
-
-<p align="justify">Entusiasta de la tecnología con interés en la automatización y la domótica. Me gusta explorar nuevas tecnologías y herramientas que me han permitido mejorar mi flujo de trabajo y aportar soluciones en los
-proyectos que he participado. Siempre estoy dispuesto a aprender y a compartir mis conocimientos.</p>
+<p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif"/></p>
 
 ## 📫 Contacto
 
@@ -91,11 +89,4 @@ Puedes contactarme a través de:
 - ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png) [/fabian-osvaldo-cruz](https://www.linkedin.com/in/fabian-osvaldo-cruz)
 
 
-
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SirLynix/SirLynix/blob/snake/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SirLynix/SirLynix/blob/snake/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/SirLynix/SirLynix/blob/snake/github-snake.svg">
-</picture>
