@@ -1,5 +1,6 @@
 
 <a href="https://github.com/Lalit-Kumar-Badhotiya/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&color=41FF00&width=435&lines=nombre+=+'Fabian+Cruz';print+(f'Hola+soy+{nombre}!+👋"></a>
+<p align="justify">Entusiasta de la tecnología con interés en la automatización y la domótica, Ingeniero informático de profesión. Me gusta explorar nuevas tecnologías cloud y herramientas que permitan mejorar el flujo de trabajo en proyectos. Siempre estoy dispuesto a aprender y a compartir mis conocimientos.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22"><b> Lenguajes & Herramientas</b>
 
@@ -69,15 +70,11 @@
   <a href="#"><img src="https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=072A45" alt="DBeaver" /></a>
 </p>
 
-## 🚀 Sobre mí
-
-<p align="justify">Entusiasta de la tecnología con interés en la automatización y la domótica, Ingeniero informático de profesión. Me gusta explorar nuevas tecnologías cloud y herramientas que permitan mejorar el flujo de trabajo en proyectos. Siempre estoy dispuesto a aprender y a compartir mis conocimientos.</p>
-        <br>
+## 📫 Contácto
 
 Puedes contactarme a través de:
 - <a href="mailto:fov.cruz@gmail.com"><img src="https://img.shields.io/badge/-fov.cruz@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
 - <a href="https://www.linkedin.com/in/fabian-osvaldo-cruz"><img src="https://img.shields.io/badge/-/fabian--osvaldo--cruz-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
 - <a href="https://github.com/FovCruz/"><img src="https://img.shields.io/badge/-FovCruz-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-
 
 ---
