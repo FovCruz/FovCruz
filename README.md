@@ -1,4 +1,4 @@
-<!-- # ¡Hola! 👋 Soy Fabian Cruz<span style="border-right: 2px solid; padding-right: 5px; animation: blink 1s infinite;">_</span>
+# ¡Hola! 👋 Soy Fabian Cruz<span style="border-right: 2px solid; padding-right: 5px; animation: blink 1s infinite;">_</span>
 
 ## 💼 Tecnologías y Herramientas
 
