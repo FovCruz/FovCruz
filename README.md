@@ -69,12 +69,11 @@
   <!-- DBeaver -->
   <a href="#"><img src="https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver&logoColor=072A45" alt="DBeaver" /></a>
 </p>
-
-## 📫 Contácto
-
+<hr>
+<p align="center">
 Puedes contactarme a través de:
-- <a href="mailto:fov.cruz@gmail.com"><img src="https://img.shields.io/badge/-fov.cruz@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a><br>
-- <a href="https://www.linkedin.com/in/fabian-osvaldo-cruz"><img src="https://img.shields.io/badge/-/fabian--osvaldo--cruz-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
-- <a href="https://github.com/FovCruz/"><img src="https://img.shields.io/badge/-FovCruz-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-
+</p>
+<p align="center">
+<a href="mailto:fov.cruz@gmail.com"><img src="https://img.shields.io/badge/-fov.cruz@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/fabian-osvaldo-cruz"><img src="https://img.shields.io/badge/-/fabian--osvaldo--cruz-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/FovCruz/"><img src="https://img.shields.io/badge/-FovCruz-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p
 ---
