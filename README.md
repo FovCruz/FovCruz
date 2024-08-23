@@ -1,5 +1,8 @@
 # ¡Hola! 👋 Soy Fabian Cruz<span style="border-right: 2px solid; padding-right: 5px; animation: blink 1s infinite;">_</span>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/-fov.cruz@gmail.com-f7d162?style=flat-square&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/- Ing. Informático-1a9e9f?style=flat-square" />
+</p>
 ## 💼 Tecnologías y Herramientas
 
 Algunas de las tecnoloías que he usado 
