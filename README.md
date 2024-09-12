@@ -33,9 +33,9 @@
   <!-- FileZilla -->
   <a href="#"><img src="https://img.shields.io/badge/-FileZilla-05122A?style=flat&logo=filezilla&logoColor=BF0000" alt="FileZilla" /></a>
   <!-- Excel -->
-  <a href="#"><img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346" alt="Excel" /></a>
-  <!-- Word -->
-  <a href="#"><img src="https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoft-word&logoColor=2B579A" alt="Word" /></a>
+  <!--<a href="#"><img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346" alt="Excel" /></a>-->
+  <!-- Word -->   
+  <!-- <a href="#"><img src="https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoft-word&logoColor=2B579A" alt="Word" /></a> -->   
   <!-- Shell -->
   <a href="#"><img src="https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash&logoColor=FFD500" alt="Shell" /></a>
   <!-- VNC Viewer -->
