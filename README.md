@@ -74,6 +74,10 @@
 Puedes contactarme a través de:
 </p>
 <p align="center">
+
+  <a href="www.fcruz.dev">www.fcruz.dev</a>
+</p>
+<p align="center">
 <a href="mailto:fov.cruz@gmail.com"><img src="https://img.shields.io/badge/-fov.cruz@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/fabian-osvaldo-cruz"><img src="https://img.shields.io/badge/-/fabian--osvaldo--cruz-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/FovCruz/"><img src="https://img.shields.io/badge/-FovCruz-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p
 ---
