@@ -73,7 +73,9 @@
 <p align="center">
 Puedes contactarme a través de:
   <br>
-  <a href="https://www.fcruz.dev/" target="_blank" >www.fcruz.dev</a>
+<a href="https://www.fcruz.dev/" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px;">
+  Visita fcruz.dev
+</a>
   <br>
 </p>
 <p align="center">
