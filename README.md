@@ -72,9 +72,7 @@
 <hr>
 <p align="center">
 Puedes contactarme a través de:
-</p>
-<p align="center">
-
+  <br>
   <a href="www.fcruz.dev">www.fcruz.dev</a>
 </p>
 <p align="center">
