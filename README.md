@@ -72,7 +72,7 @@
 <hr>
 <p align="center">
   Puedes contactarme a través de:<br>
-  <a href="https://www.fcruz.dev/" target="_blank" >www.fcruz.dev</a><br>
+  <a href="https://fcruz.vercel.app/" target="_blank" >www.fcruz.dev</a><br>
 </p>
 <p align="center">
 <a href="mailto:fov.cruz@gmail.com"><img src="https://img.shields.io/badge/-fov.cruz@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a> 
